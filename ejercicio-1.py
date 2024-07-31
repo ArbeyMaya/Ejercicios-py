@@ -1,0 +1,1 @@
+print("La felicidad se puede encontrar hasta en lo mas oscuros momentos, si somos capaces de usar bien la luz.\n-Albus Dumbledore")
